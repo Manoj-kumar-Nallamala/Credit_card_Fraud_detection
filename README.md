@@ -40,3 +40,29 @@ It contains only numerical input variables which are the result of a PCA transfo
 #  V28abc
 #  AmountTransaction amount
 #  Class1 for fraudulent transactions, 0 otherwise
+
+Usage Information
+License
+
+Database: Open Database, Contents: Database Contents
+Visibility
+
+Public
+Maintainers
+Dataset owner
+
+Machine Learning Group - ULBMachine Learning Group - ULB
+Machine Learning Group - ULB
+Updates
+Expected update frequency
+
+Not specified
+Last updated
+
+2018-03-23
+Date created
+
+2016-11-03
+Current version
+
+Version 3
